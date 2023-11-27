@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GridDemo", "GridDemo", "{83676D21-B4E2-45F9-8E05-2B1A097FA2EC}"
+	ProjectSection(SolutionItems) = preProject
+		GridDemo\Task.md = GridDemo\Task.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StackpanelDemo", "StackpanelDemo", "{1498E24C-28BF-459F-A707-E42025B66A53}"
+	ProjectSection(SolutionItems) = preProject
+		StackPanelDemo\Task.md = StackPanelDemo\Task.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WrappanelDemo", "WrappanelDemo", "{1D94DD21-EC89-48B3-A2B6-9C68D0D3DFC8}"
+	ProjectSection(SolutionItems) = preProject
+		WrapPanelDemo\Task.md = WrapPanelDemo\Task.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DockpanelDemo", "DockpanelDemo", "{ACD0E109-6367-4049-A8D8-CB931AFAB8BD}"
+	ProjectSection(SolutionItems) = preProject
+		DockPanelDemo\Task.md = DockPanelDemo\Task.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CanvasDemo", "CanvasDemo", "{E43E0C75-4969-4C32-8E05-00698C054C79}"
+	ProjectSection(SolutionItems) = preProject
+		CanvasDemo\Task.md = CanvasDemo\Task.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UniformGridDemo", "UniformGridDemo", "{538D5E3F-EFFD-492C-8435-EB7D1508F32B}"
+	ProjectSection(SolutionItems) = preProject
+		UniformGridDemo\Task.md = UniformGridDemo\Task.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2166E1BE-03C9-410D-A497-EA07A96B71D0}
+	EndGlobalSection
+EndGlobal
