@@ -1,0 +1,21 @@
+﻿<Window x:Class="StackpanelDemo.GridStackpanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Grid mit StackPanel" Height="350" Width="525">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="LightGray" Margin="10">
+            <Button Content="Button 1" Margin="5"/>
+            <Button Content="Button 2" Margin="5"/>
+            <Button Content="Button 3" Margin="5"/>
+        </StackPanel>
+
+        <TextBlock Grid.Column="1" Text="Hier könnte weiterer Inhalt stehen." 
+                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
